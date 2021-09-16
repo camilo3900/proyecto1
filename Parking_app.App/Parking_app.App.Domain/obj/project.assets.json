@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\57312\\Documents\\Universidad\\Mision TIC\\Desarrollo de software\\Talleres\\#2\\Hospitalizacion\\Parking_app.App\\Parking_app.App.domain\\Parking_app.App.domain.csproj",
+      "projectUniqueName": "C:\\Users\\57312\\Documents\\GitHub\\Proyecto Curso\\Parking_app.App\\Parking_app.App.Domain\\Parking_app.App.domain.csproj",
       "projectName": "Parking_app.App.domain",
-      "projectPath": "C:\\Users\\57312\\Documents\\Universidad\\Mision TIC\\Desarrollo de software\\Talleres\\#2\\Hospitalizacion\\Parking_app.App\\Parking_app.App.domain\\Parking_app.App.domain.csproj",
+      "projectPath": "C:\\Users\\57312\\Documents\\GitHub\\Proyecto Curso\\Parking_app.App\\Parking_app.App.Domain\\Parking_app.App.domain.csproj",
       "packagesPath": "C:\\Users\\57312\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57312\\Documents\\Universidad\\Mision TIC\\Desarrollo de software\\Talleres\\#2\\Hospitalizacion\\Parking_app.App\\Parking_app.App.domain\\obj\\",
+      "outputPath": "C:\\Users\\57312\\Documents\\GitHub\\Proyecto Curso\\Parking_app.App\\Parking_app.App.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\57312\\AppData\\Roaming\\NuGet\\NuGet.Config",
