@@ -13,7 +13,8 @@ namespace Parking_app.App.Persistent
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseSqlServer("Data Source = (localdb)\\MSSQLocalDB; Initial Catalog = ParkingApp.Data");
+                // Aqui el DataSource es el nombre de la base de datos local
+                .UseSqlServer("Initial Catalog = ParkingApp.Data; Data Source=LAPTOP-VPO7HRDD\\SQLEXPRESS; Integrated Security=true");
             }
         }
     }
